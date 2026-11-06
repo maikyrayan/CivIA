@@ -1,72 +1,129 @@
-# CivIA — Projeto independente de IA aplicada à Engenharia
+# CivIA — AI Applied to Civil Engineering
 
-**Protótipo experimental de desenvolvimento e aplicação de inteligência artificial em contextos técnicos da engenharia civil.**
+> **Independent research and software development initiative exploring the application of artificial intelligence in technical engineering environments.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maiky_Rayan-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiky-rayan)
-![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-Generative_AI-green.svg)
-![Status](https://img.shields.io/badge/Status-In_Development-orange.svg)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-In_Development-orange.svg)](#5-project-status)
+
+🌐 **Language:** [English](#english) | [Português (Brasil)](#português-brasil)
 
 ---
 
-## Sobre o Projeto
+<a id="english"></a>
+## English
 
-O **CivIA** é um projeto independente de pesquisa e desenvolvimento que investiga aplicações de Inteligência Artificial generativa em contextos técnicos da engenharia civil.
+### 1. About the Initiative
 
-A iniciativa integra conhecimentos de engenharia e desenvolvimento de software na exploração de aplicações de inteligência artificial voltadas a contextos técnicos e processos de tomada de decisão.
+**CivIA** is an independent research and software development initiative exploring the application of artificial intelligence in Civil Engineering.
 
-Este repositório apresenta uma visão geral da iniciativa e demonstrações selecionadas de seu desenvolvimento.
+The initiative brings together civil engineering expertise and software development practices to investigate new possibilities for applying AI in technical environments.
 
----
-
-## Competências e Áreas Aplicadas
-
-- **Desenvolvimento com Python**: Estruturação modular, tipagem e boas práticas com Python 3.12;
-- **Integração de Modelos de Linguagem (LLMs)**: Experimentação com técnicas de recuperação contextual sobre dados técnicos e orquestração de prompts;
-- **Engenharia de Interfaces**: Desenvolvimento de interface web dinâmica com Vanilla JavaScript, priorizando usabilidade e fluxo de mensagens contínuo;
-- **Modelagem de Conhecimento**: Aplicação de conceitos de engenharia de software na organização e representação de informações técnicas da engenharia civil.
+This repository provides an institutional overview of CivIA and selected demonstrations of its development.
 
 ---
 
-## Demonstração
+### 2. Core Competencies
 
-Em ambientes técnicos, deixar informações relevantes passarem despercebidas pode comprometer a qualidade de uma decisão.
-
-Conheça uma iniciativa que explora novas possibilidades de aplicação da inteligência artificial à engenharia:
-
-[🎥 Assistir à demonstração em vídeo](https://lnkd.in/p/dzugkSXK)
-
----
-
-## Tecnologias e Ferramentas
-
-* **Linguagem**: Python 3.12
-* **Inteligência Artificial**: Modelos de Linguagem (LLMs) & Técnicas de Recuperação Contextual (RAG)
-* **Estruturação de Dados**: Validação e parsing de esquemas com Pydantic
-* **Interface & Web**: Servidor web em Flask e interface em HTML5, CSS3 moderno e Vanilla JavaScript
+- **Python & Software Development:** Modular development, typing, and software engineering practices.
+- **Generative AI Applications:** Working with large language models and AI-powered applications.
+- **Web Application Development:** Building dynamic interfaces focused on usability and clear communication.
+- **Engineering Domain Knowledge:** Applying civil engineering expertise to organize and evaluate technical information.
 
 ---
 
-## Status do Projeto
+### 3. Demonstration
 
-> **Status:** Projeto independente em desenvolvimento contínuo.
+Artificial intelligence opens new possibilities for organizing information and supporting technical workflows.
 
-O material apresentado possui finalidade demonstrativa e representa uma visão parcial do desenvolvimento da iniciativa.
+Explore a selected demonstration of the initiative:
 
----
-
-## Sobre este Repositório
-
-Este repositório público apresenta uma visão institucional e demonstrativa do CivIA. A implementação integral e os materiais internos de desenvolvimento permanecem privados.
+🎥 **[Watch the Video Demonstration on LinkedIn](https://lnkd.in/p/dzugkSXK)**
 
 ---
 
-## Perfil Profissional
+### 4. Technologies & Areas
 
-Desenvolvido por **Maiky Rayan**, engenheiro civil com atuação na integração entre engenharia, desenvolvimento de software e inteligência artificial.
-
-💼 **[Conectar no LinkedIn](https://www.linkedin.com/in/maiky-rayan)**
+- **Programming:** Python
+- **Artificial Intelligence:** Generative AI and Large Language Models (LLMs)
+- **Software Development:** Web Applications
+- **Application Domain:** Civil Engineering
 
 ---
 
-&copy; 2026 CivIA · Projeto independente de desenvolvimento e experimentação.
+### 5. Project Status
+
+> **Status:** Ongoing independent research and development initiative.
+
+This repository serves exclusively as an institutional showcase and professional portfolio. The complete implementation and internal development assets remain private.
+
+---
+
+### 6. Professional Profile
+
+Developed by **Maiky Rayan**, Civil Engineer focused on the intersection of engineering expertise, software development, and artificial intelligence.
+
+💼 **[Connect on LinkedIn](https://www.linkedin.com/in/maiky-rayan)**  
+📍 Brazil
+
+---
+
+<a id="portugues-brasil"></a><a id="português-brasil"></a>
+## Português (Brasil)
+
+### 1. Sobre a Iniciativa
+
+O **CivIA** é uma iniciativa independente de pesquisa e desenvolvimento de software que explora aplicações de inteligência artificial na Engenharia Civil.
+
+A iniciativa integra conhecimentos de engenharia civil e práticas de desenvolvimento de software para investigar novas possibilidades de aplicação da IA em ambientes técnicos.
+
+Este repositório apresenta uma visão institucional do CivIA e demonstrações selecionadas de seu desenvolvimento.
+
+---
+
+### 2. Competências Principais
+
+- **Python e Desenvolvimento de Software:** Desenvolvimento modular, tipagem e boas práticas de engenharia de software.
+- **Aplicações de IA Generativa:** Trabalho com modelos de linguagem e aplicações baseadas em inteligência artificial.
+- **Desenvolvimento de Aplicações Web:** Construção de interfaces dinâmicas com foco em usabilidade e clareza de comunicação.
+- **Conhecimento de Domínio em Engenharia:** Aplicação de conhecimentos de engenharia civil na organização e análise de informações técnicas.
+
+---
+
+### 3. Demonstração
+
+A inteligência artificial abre novas possibilidades para organizar informações e apoiar processos técnicos.
+
+Conheça uma demonstração selecionada da iniciativa:
+
+🎥 **[Assistir à Demonstração em Vídeo no LinkedIn](https://lnkd.in/p/dzugkSXK)**
+
+---
+
+### 4. Tecnologias e Áreas
+
+- **Programação:** Python
+- **Inteligência Artificial:** IA Generativa e Modelos de Linguagem (LLMs)
+- **Desenvolvimento de Software:** Aplicações Web
+- **Domínio de Aplicação:** Engenharia Civil
+
+---
+
+### 5. Status do Projeto
+
+> **Status:** Iniciativa independente de pesquisa e desenvolvimento em andamento.
+
+Este repositório possui finalidade estritamente institucional e demonstrativa. A implementação integral e os materiais internos de desenvolvimento permanecem privados.
+
+---
+
+### 6. Perfil Profissional
+
+Desenvolvido por **Maiky Rayan**, engenheiro civil com foco na integração entre engenharia, desenvolvimento de software e inteligência artificial aplicada.
+
+💼 **[Conectar no LinkedIn](https://www.linkedin.com/in/maiky-rayan)**  
+📍 Brasil
+
+---
+
+&copy; 2026 CivIA · Pesquisa e Desenvolvimento Independente.
