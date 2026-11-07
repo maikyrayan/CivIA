@@ -4,9 +4,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maiky_Rayan-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiky-rayan)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-In_Development-orange.svg)](#5-project-status)
+[![Status](https://img.shields.io/badge/Status-In_Development-orange.svg)](#project-status)
 
-🌐 **Language:** [English](#english) | [Português (Brasil)](#português-brasil)
+🌐 **Language:** [English](#english) | [Português (Brasil)](#portugues-brasil)
 
 ---
 
@@ -34,11 +34,22 @@ This repository provides an institutional overview of CivIA and selected demonst
 
 ### 3. Demonstration
 
-Artificial intelligence opens new possibilities for organizing information and supporting technical workflows.
+In complex technical environments, critical information can easily be overlooked or scattered across disparate documents, leading to decisions made without full contextual visibility.
 
-Explore a selected demonstration of the initiative:
+Explore a demonstration of how CivIA approaches this challenge:
 
-🎥 **[Watch the Video Demonstration on LinkedIn](https://lnkd.in/p/dzugkSXK)**
+🎥 **[Watch the demonstration on LinkedIn](https://lnkd.in/p/dzugkSXK)**
+
+#### Interface Overview
+
+![CivIA — Initial Interface](assets/01-interface-inicial.png)
+*Initial application interface with suggested technical domains.*
+
+![CivIA — Document Query](assets/02-consulta-documental.png)
+*Contextual query on contractual values and cumulative execution balance.*
+
+![CivIA — Analytical Continuity](assets/03-continuidade-analitica.png)
+*Conversational continuity and calculated execution percentage.*
 
 ---
 
@@ -51,6 +62,7 @@ Explore a selected demonstration of the initiative:
 
 ---
 
+<a id="project-status"></a>
 ### 5. Project Status
 
 > **Status:** Ongoing independent research and development initiative.
@@ -68,7 +80,7 @@ Developed by **Maiky Rayan**, Civil Engineer focused on the intersection of engi
 
 ---
 
-<a id="portugues-brasil"></a><a id="português-brasil"></a>
+<a id="portugues-brasil"></a><a id="portugues"></a>
 ## Português (Brasil)
 
 ### 1. Sobre a Iniciativa
@@ -92,11 +104,22 @@ Este repositório apresenta uma visão institucional do CivIA e demonstrações 
 
 ### 3. Demonstração
 
-A inteligência artificial abre novas possibilidades para organizar informações e apoiar processos técnicos.
+Em ambientes técnicos complexos, informações relevantes podem passar despercebidas ou estar dispersas, o que pode levar a decisões sem uma visão completa do contexto.
 
-Conheça uma demonstração selecionada da iniciativa:
+Conheça uma demonstração de como o CivIA explora esse desafio:
 
-🎥 **[Assistir à Demonstração em Vídeo no LinkedIn](https://lnkd.in/p/dzugkSXK)**
+🎥 **[Assistir à demonstração no LinkedIn](https://lnkd.in/p/dzugkSXK)**
+
+#### Visão da Interface
+
+![CivIA — Interface Inicial](assets/01-interface-inicial.png)
+*Tela inicial da aplicação com tópicos técnicos sugeridos.*
+
+![CivIA — Consulta Documental](assets/02-consulta-documental.png)
+*Consulta de valores contratuais e saldo acumulado de medições.*
+
+![CivIA — Continuidade Analítica](assets/03-continuidade-analitica.png)
+*Continuidade de raciocínio e cálculo do percentual executado.*
 
 ---
 
@@ -109,6 +132,7 @@ Conheça uma demonstração selecionada da iniciativa:
 
 ---
 
+<a id="status-do-projeto"></a>
 ### 5. Status do Projeto
 
 > **Status:** Iniciativa independente de pesquisa e desenvolvimento em andamento.
