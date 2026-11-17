@@ -1,12 +1,21 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/civia-logo-dark-256.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/civia-logo-light-256.png">
+    <img src="assets/civia-logo-light-256.png" width="88" height="88" alt="CivIA Logo">
+  </picture>
+
 # CivIA — AI Applied to Civil Engineering
 
 > **Independent research and software development initiative exploring the application of artificial intelligence in technical engineering environments.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maiky_Rayan-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiky-rayan)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-In_Development-orange.svg)](#project-status)
+[![Status](https://img.shields.io/badge/Status-In_Development-0E7660.svg)](#project-status)
 
 🌐 **Language:** [English](#english) | [Português (Brasil)](#portugues-brasil)
+
+</div>
 
 ---
 
